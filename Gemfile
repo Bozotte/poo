@@ -1,0 +1,11 @@
+source "http://www.rubygems.org"
+ruby '2.5.1'
+gem 'pry'
+gem 'dotenv'
+gem 'nokogiri'
+gem 'rubocop', '~> 0.57.2'
+gem 'rspec'
+gem 'bundler'
+gem 'xpath'
+gem 'google_drive'
+gem 'json'
