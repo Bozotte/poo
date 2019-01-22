@@ -1,8 +1,10 @@
 # Organiser la structure d'un dossier Ruby (Programmation Orientée Objet)
 
+Trois formats pour le stockage de données : le format JSON, Google Spreadsheet et le format CSV. 
+
 L'objectif est d'avoir juste à faire $ bundle install et $ ruby app.rb quand on arrive dans le dossier, pour faire tourner l'application. Chaque fichier doit avoir une fonction unique et précise, représentée par une classe. 
 
-Trois formats pour le stockage de données : le format JSON, Google Spreadsheet et le format CSV. 
+Tous les programmes du jour devront être faits en POO : tout doit être contenu dans des classes, 1 classe par fichier.
 
 Le fichier app.rb
 
