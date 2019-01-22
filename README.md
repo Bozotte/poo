@@ -1,6 +1,8 @@
 # Organiser la structure d'un dossier Ruby (Programmation Orientée Objet)
 
-L'objectif est d'avoir juste à faire $ bundle install et $ ruby app.rb quand on arrive dans le dossier, pour faire tourner l'application. Chaque fichier doit avoir une fonction unique et précise, représentée par une classe
+L'objectif est d'avoir juste à faire $ bundle install et $ ruby app.rb quand on arrive dans le dossier, pour faire tourner l'application. Chaque fichier doit avoir une fonction unique et précise, représentée par une classe. 
+
+Trois formats pour le stockage de données : le format JSON, Google Spreadsheet et le format CSV. 
 
 Le fichier app.rb
 
