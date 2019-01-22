@@ -19,6 +19,10 @@ require 'scrapper'
 3/ Faire appel à la classe qui m'intéresse
 MyClass.new.perform
 
+Outils
+> pour Json : https://jsoneditoronline.org/
+> scraper (ruby) : https://www.chrismytton.uk/2015/01/19/web-scraping-with-ruby/
+
 # MAPS DU PROJET 
 
 ├── lib
