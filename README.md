@@ -1,5 +1,7 @@
 # Organiser la structure d'un dossier Ruby (Programmation Orientée Objet)
 
+L'objectif est d'avoir juste à faire $ bundle install et $ ruby app.rb quand on arrive dans le dossier, pour faire tourner l'application. Chaque fichier doit avoir une fonction unique et précise, représentée par une classe
+
 Le fichier app.rb
 
 1/ Pour de faire marcher le dossier, brancher le Bundler au fichier app.rb en ajoutant ces deux lignes : => Grâce à elles en en-tête du fichier à exécuter (ruby app.rb), les require de gems deviennent inutiles. Il suffit que ton Gemfile soit bien complété.
