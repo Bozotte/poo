@@ -1,6 +1,6 @@
 # Organiser la structure d'un dossier Ruby (Programmation Orientée Objet) 
 
-Le projet du jour a pour but d'enregistrer dans 3 formats différents les e-mails des mairies du Val d'Oise. Le fichier de la semaine dernière a été modifié (ajouts de méthodes) et réutilisé.
+Le projet du jour a pour but d'enregistrer dans 3 formats différents les e-mails des mairies du Val d'Oise. Le fichier de la semaine dernière a été modifié (ajouts de méthodes + classe) et réutilisé.
 
 Trois formats pour le stockage de données : le format JSON, Google Spreadsheet et le format CSV. 
 
